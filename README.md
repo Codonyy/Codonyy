@@ -5,7 +5,7 @@ Estudiant de Santa Anna
 
 Sobre mi
 
-Em dic Martí i tinc 17 anys, actualment estic estudiant a l’Escola Pia Santa Anna Mataró.  
+Em dic Martí i tinc 18 anys, actualment estic estudiant a l’Escola Pia Santa Anna Mataró.  
 Sóc una persona molt treballadora que entén a les persones i que li agrada treballar en equip.  
 També sóc una persona molt aplicada que no es conforma amb els mínims i que sempre intenta fer la feina el millor possible.
 
