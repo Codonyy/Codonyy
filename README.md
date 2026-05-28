@@ -113,7 +113,7 @@ Data de naixement: 17/03/2008
 ---
 
 
-<img width="683" height="651" alt="image" src="https://github.com/user-attachments/assets/025b3e8a-9e14-40ed-9891-26048384d41f" />
+<img width="1366" height="1302" alt="image" src="https://github.com/user-attachments/assets/025b3e8a-9e14-40ed-9891-26048384d41f" />
 
 
 ---
