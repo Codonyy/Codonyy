@@ -70,7 +70,6 @@ Data de naixement: 17/03/2008
 - 💼 Pràctiques a **Merka360** (2025–2026)
 - 🌐 He creat una **web corporativa** desplegada a GitHub Pages amb CI/CD
 - 📦 +579 commits repartits en projectes reals de xarxes i sistemes
-- 🤖 Apassionat per la **IA, ciberseguretat i virtualització**
 - 📍 Mataró, Barcelona
 
 ---
@@ -111,6 +110,7 @@ Data de naixement: 17/03/2008
 ![SVB](https://img.shields.io/badge/Suport_Vital_Bàsic-EE5A24?style=for-the-badge)
 
 ---
+
 
 
 
