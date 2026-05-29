@@ -16,7 +16,7 @@
 
 - 🎓 Estudiant de **Sistemes Microinformàtics i Xarxes** @ Escola Pia Santa Anna (Mataró)
 - 💼 Pràctiques a **Merka360** (2025–2026)
-- 📦 +579 commits repartits en projectes reals de xarxes i sistemes
+- 📦 +500 commits repartits en projectes reals de xarxes i sistemes
 - 📍 Mataró, Barcelona
 
 ---
