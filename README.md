@@ -57,8 +57,8 @@ Data de naixement: 17/03/2008
 
 # 👋 Martí Codony Sacristan · Codonyy
 
-![Profile views](https://komarev.com/ghpvc/?username=marcjurado983&color=58a6ff&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/marcjurado983?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=Codonyy&color=58a6ff&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/Codonyy?style=social)
 
 </div>
 
