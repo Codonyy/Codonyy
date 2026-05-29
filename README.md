@@ -55,7 +55,7 @@ Data de naixement: 17/03/2008
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF¢er=true&vCenter=true&width=500&lines=Estudiant+SMX+%40+Escola+Pia+Santa+Anna;700%2B+contribucions+a+GitHub;Xarxes+%7C+Linux+%7C+Web+%7C+IA)](https://git.io/typing-svg)
 
-# 👋 Marc Jurado · marcjurado983
+# 👋 Martí Codony Sacristan · Codonyy
 
 ![Profile views](https://komarev.com/ghpvc/?username=marcjurado983&color=58a6ff&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/marcjurado983?style=social)
