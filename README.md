@@ -61,7 +61,7 @@
 
 <div align="center">
 
-<img width="138" height="150" alt="projectes-smx2" src="https://github.com/user-attachments/assets/53ab9701-6d15-4494-bee4-05574802b5cc" />
+<img width="1380" height="1500" alt="projectes-smx2" src="https://github.com/user-attachments/assets/53ab9701-6d15-4494-bee4-05574802b5cc" />
 
 
 </div>
