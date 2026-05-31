@@ -63,7 +63,7 @@
 
 <div align="center">
 
-<img width="900" height="921" alt="Captura de pantalla 2026-05-31 183632" src="https://github.com/user-attachments/assets/beeda522-5576-4dee-b963-ee1eb4f5ced7" />
+<img width="800" height="821" alt="Captura de pantalla 2026-05-31 183632" src="https://github.com/user-attachments/assets/beeda522-5576-4dee-b963-ee1eb4f5ced7" />
 
 </div>
 ---
