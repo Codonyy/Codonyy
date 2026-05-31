@@ -60,6 +60,7 @@
 
 
 <img width="1380" height="1500" alt="projectes-smx2" src="https://github.com/user-attachments/assets/282a3279-da72-402e-96d4-85fe1bb8842f" />
+<img width="704" height="721" alt="Captura de pantalla 2026-05-31 183632" src="https://github.com/user-attachments/assets/beeda522-5576-4dee-b963-ee1eb4f5ced7" />
 
 
 ---
