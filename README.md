@@ -1,4 +1,3 @@
-<img width="138" height="150" alt="projectes-smx2" src="https://github.com/user-attachments/assets/282a3279-da72-402e-96d4-85fe1bb8842f" />
 
 <div align="center">
 
@@ -60,7 +59,7 @@
 ---
 
 
-![SVG](projectes2-8)
+<img width="1380" height="1500" alt="projectes-smx2" src="https://github.com/user-attachments/assets/282a3279-da72-402e-96d4-85fe1bb8842f" />
 
 
 ---
