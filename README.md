@@ -1,7 +1,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF¢er=true&vCenter=true&width=500&lines=Estudiant+SMX+%40+Escola+Pia+Santa+Anna;500%2B+contribucions+a+GitHub;Xarxes+%7C+Linux+%7C+Web+%7C+IA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF¢er=true&vCenter=true&width=500&lines=Estudiant+SMX+%40+Escola+Pia+Santa+Anna;500%2B+contribucions+a+GitHub;Xarxes+%7C+Linux+%7C+Web+%7C)](https://git.io/typing-svg)
 
 # 👋 Martí Codony Sacristan · Codonyy
 
