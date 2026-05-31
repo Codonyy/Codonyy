@@ -61,7 +61,7 @@
 
 <div align="center">
 
-![Uplo<svg width="100%" viewBox="0 0 680 740" role="img" xmlns="http://www.w3.org/2000/svg">
+![Uplo]<svg width="100%" viewBox="0 0 680 740" role="img" xmlns="http://www.w3.org/2000/svg">
 <title>Projectes Destacats SMX2 — codonyy</title>
 <desc>Targetes dels 9 projectes del cicle formatiu SMX2 a l'Escola Pia Santa Anna, amb commits i tecnologies.</desc>
 <defs>
