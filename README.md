@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF¢er=true&vCenter=true&width=500&lines=Estudiant+SMX+%40+Escola+Pia+Santa+Anna;500%2B+contribucions+a+GitHub;Xarxes+%7C+Linux+%7C+Web+%7C)](https://git.io/typing-svg)
 
-# 👋 Martí Codony Sacristan · Codonyy
+# Martí Codony Sacristan · Codonyy
 
 ![Profile views](https://komarev.com/ghpvc/?username=Codonyy&color=58a6ff&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/Codonyy?style=social)
