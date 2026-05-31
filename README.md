@@ -62,7 +62,7 @@
 <div align="center">
 
 <img width="1380" height="1500" alt="projectes-smx2" src="https://github.com/user-attachments/assets/18fd244d-e645-4eb2-8fb6-33cb862cafda" />
-<svg width="100%" viewBox="0 0 680 740" role="img" xmlns="http://www.w3.org/2000/svg">
+<img width="100%" viewBox="0 0 680 740" role="img" xmlns="http://www.w3.org/2000/svg">
 <title>Projectes Destacats SMX2 — Marc Jurado</title>
 <desc>Targetes dels 9 projectes del cicle formatiu SMX2 a l'Escola Pia Santa Anna, amb commits i tecnologies.</desc>
 <defs>
