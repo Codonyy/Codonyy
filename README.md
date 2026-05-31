@@ -61,7 +61,7 @@
 
 <div align="center">
 
-<img width="138" height="150" alt="projectes-smx2_codonyy" src="https://github.com/user-attachments/assets/17442830-7ef3-4b1b-8d6e-a3d102ecaf33" />
+<img width="1380" height="1500" alt="projectes-smx2_codonyy" src="https://github.com/user-attachments/assets/17442830-7ef3-4b1b-8d6e-a3d102ecaf33" />
 
 
 <svg width="100%" viewBox="0 0 680 740" role="img" xmlns="http://www.w3.org/2000/svg">
