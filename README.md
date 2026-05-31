@@ -74,8 +74,8 @@
 
 ## 📞 Contacte
 
-[![Email](https://img.shields.io/badge/marticodony099@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcjurado00@gmail.com)
-[![GitHub](https://img.shields.io/badge/github.com/codonyy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcjurado983)
+[![Email](https://img.shields.io/badge/marticodony099@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marticodony099@gmail.com)
+[![GitHub](https://img.shields.io/badge/github.com/codonyy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codonyy)
 
 ---
 
