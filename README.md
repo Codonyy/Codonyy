@@ -68,6 +68,16 @@
 
 ---
 
+## 📊 Estadístiques GitHub
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=codonyy&theme=github-dark-blue&hide_border=true)
+
+</div>
+
+---
+
 ## 🌍 Idiomes
 
 🇦🇩 **Català** — Nadiu  ·  🇪🇸 **Castellà** — Nadiu  ·  🇬🇧 **Anglès** — B2
